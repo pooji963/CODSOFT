@@ -4,7 +4,7 @@ import java.net.URL;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class Main {
+public class CurrencyConverter {
 
     private static final String API_URL = "https://api.exchangerate-api.com/v4/latest/";
 
