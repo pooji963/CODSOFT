@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 public class CurrencyConverter {
 
-    private static final String API_URL = "https://api.exchangerate-api.com/v4/latest/";
+    private static final String API_URL = "https://v6.exchangerate-api.com/v6/ca1f6cef74f36b48c713557c/latest/USD";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
